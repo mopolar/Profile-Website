@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Mohammed Gamal",
+    "occupation":"Full-Stack Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I'm senior computer engineering at Nile University. I work as a full-stack developer and cloud developer.",
+    "email": "m.shawky@nu.edu.eg",
+    "phone": "+201096744379",
+    "address":{
+      "city":"Dokki",
+      "state":"Giza"
+    },
+    "resumedownload":"https://download1497.mediafire.com/y893dknuggsg/c7j15asb8trtd07/Mohammed-Shawky.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100006709388459",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/mohammed96010",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohamed-gamal-863194a5/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mohammed_gamal3/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mopolar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Nile University",
+        "degree":"Computer Engineering",
+        "graduated":"June 2021"
+      },
+      {
+        "school":"STEM Egypt School of 6th of October",
+        "degree":"High School",
+        "graduated":"June 2016"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%"
+      },
+      {
+        "name":"Flask",
+        "level":"90%"
+      },
+      {
+        "name":"Djano",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Company Website Home Page",
+        "category":"Company Website Home Page",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/mopolar/Company-Website-Home-Page"
+      },
+      {
+        "title":"Udagram Image Filtering Microservice",
+        "category":"Udagram Image Filtering Microservice",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/mopolar/Refactor-Udagram-app-into-Microservices-and-Deploy"
+      }
+    ]
+  }
+}
